@@ -1,0 +1,7 @@
+Script started on Mon 02 Dec 2013 07:25:30 PM EST
+1%>linux028:[1m~/cs343/a6[0m> ./soda soda.config -1
+Usage: ./soda [ config-file [ random-seed (> 0) ] ]
+1%>linux028:[1m~/cs343/a6[0m> exit
+exit
+
+Script done on Mon 02 Dec 2013 07:25:46 PM EST
